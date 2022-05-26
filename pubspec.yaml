@@ -1,7 +1,7 @@
 name: decorated_textfields
 description: decorated textfields.
 version: 0.0.2
-homepage:
+homepage: https://github.com/shubham5exceptions/decorated_textfields
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
